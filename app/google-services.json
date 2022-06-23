@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959139875027",
+    "project_id": "nimadmusicplayer",
+    "storage_bucket": "nimadmusicplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959139875027:android:df7dd5db9d96f63764ec26",
+        "android_client_info": {
+          "package_name": "com.example.nimadmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959139875027-d5odt2s9c5kcordd3hotp50fabe5po73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nimadmusicplayer",
+            "certificate_hash": "3bf01a22bf9cb99d827b6f874deebd0d8a9d6767"
+          }
+        },
+        {
+          "client_id": "959139875027-vi8vmdtqrlkip1uh5h2ufblue7c1vs48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC243j9acUMpcMpH4K7Up6LSn_TluvWGmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959139875027-vi8vmdtqrlkip1uh5h2ufblue7c1vs48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
